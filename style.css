@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+header{
+    display: flex;
+    justify-content:space-around ;
+}
+.synek{
+    border: 1px solid rgb(252, 0, 0);
+    border-radius: 20px;
+    padding: 150px;
+    margin: 20px;
+    background-color: blueviolet;
+}
+
+.synek:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
